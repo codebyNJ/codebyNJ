@@ -1,6 +1,10 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=false&width=435&lines=Hi!+I'm+Nijeesh+NJ+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+</div>
 
-<h1 align="center"> Hi! I'm Nijeesh NJ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
-
+<hr>
 I'm Nijeesh NJ, a passionate Software Engineering and UI/UX designer student 💻.
 
 <!-- TODO: Add last video link -->
@@ -19,9 +23,13 @@ I'm Nijeesh NJ, a passionate Software Engineering and UI/UX designer student �
 
 ### 🛠 &nbsp; Tech Stack
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" width="60" /> |
-|:-:|:-:|:-:|
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,python,gcp,figma,vscode,git,r,c,android)](https://skillicons.dev) 
 
+<hr>
+
+### 📝 &nbsp; Recent Blogs
+
+[![Nijeesh .N. Medium](https://github-readme-medium.vercel.app/?username=nijeesh10th&limit=2&bg=ffffff&text=000000)](https://medium.com/@nijeesh10th)
 
 <hr>
 
