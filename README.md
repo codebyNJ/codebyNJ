@@ -1,4 +1,8 @@
 <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+<br>
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=false&width=435&lines=Hi!+I'm+Nijeesh+NJ+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
@@ -29,7 +33,8 @@ I'm Nijeesh NJ, a passionate Software Engineering and UI/UX designer student ğŸ’
 
 ### ğŸ“ &nbsp; Recent Blogs
 
-[![Nijeesh .N. Medium](https://github-readme-medium.vercel.app/?username=nijeesh10th&limit=2&bg=ffffff&text=000000)](https://medium.com/@nijeesh10th)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nijeesh10th/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nijeesh10th/0" alt="Recent Article 0"> 
+
 
 <hr>
 
