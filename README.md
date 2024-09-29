@@ -38,8 +38,12 @@ I'm Nijeesh NJ, a passionate Software Engineering and UI/UX designer student �
 
 <hr>
 
-### ⚙️ &nbsp; Git Analytics
+### ⚙️ &nbsp; Analytics
  
+<a href="https://www.geeksforgeeks.org/user/nijeesh10th/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=nijeesh10th" alt="GFG stats"/></a>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Nijeesh_1805?theme=dark&font=Big%20Shoulders%20Stencil%20Text)
+
 <img src="https://github-readme-stats.vercel.app/api?username=codebyNJ&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyNJ&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="300"/>
 
 ------
