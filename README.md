@@ -40,7 +40,7 @@ I'm Nijeesh NJ, a passionate Software Engineering and UI/UX designer student �
 
 ### ⚙️ &nbsp; Git Analytics
  
-<img src="https://github-readme-stats.vercel.app/api?username=codebyNJ&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="500"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyNJ&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="380"/>
+<img src="https://github-readme-stats.vercel.app/api?username=codebyNJ&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyNJ&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="300"/>
 
 ------
 Credit: [Nijeesh NJ](https://github.com/codebyNJ)
