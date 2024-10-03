@@ -46,6 +46,8 @@ I'm Nijeesh NJ, a passionate Software Engineering and UI/UX designer student ðŸ’
 
 <img src="https://github-readme-stats.vercel.app/api?username=codebyNJ&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyNJ&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="300"/>
 
+[![An image of @codebynj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codebynj)](https://holopin.io/@codebynj)
+
 ------
 Credit: [Nijeesh NJ](https://github.com/codebyNJ)
 
