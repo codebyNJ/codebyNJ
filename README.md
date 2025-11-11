@@ -25,7 +25,7 @@ I'm Nijeesh NJ, an AI engineer who loves to build projects and tools that make t
 
 ### 🛠 &nbsp; Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,python,gcp,figma,vscode,git,r,c,android)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=python,gcp,typescript,express,fastapi,firebase,nextjs,git,r,android)](https://skillicons.dev) 
 
 <hr>
 
