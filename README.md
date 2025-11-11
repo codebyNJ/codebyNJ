@@ -9,13 +9,11 @@
 </div>
 
 <hr>
-I'm Nijeesh NJ, a passionate Software Engineering and UI/UX designer student 💻.
+I'm Nijeesh NJ, an AI engineer who loves to build projects and tools that make things easy and simple. 
 
 <!-- TODO: Add last video link -->
 
-- :seedling: I’m currently learning about Cloud computing and Data Science.
-- :computer: Most used line of code `public static void main()`.
-- 🤔 I’m looking for an internship.
+- 🤔 Sometimes frontend also works because I love impressing people.
 - :speech_balloon: Ask me about anything.
 - 😄 Pronouns: He/Him.
 
