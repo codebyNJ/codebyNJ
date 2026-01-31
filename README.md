@@ -8,44 +8,62 @@
   </a>
 </div>
 
-<hr>
-I'm Nijeesh NJ, an AI engineer who loves to build projects and tools that make things easy and simple. 
+---
 
-<!-- TODO: Add last video link -->
+### About Me
 
-- 🤔 Sometimes frontend also works because I love impressing people.
-- :speech_balloon: Ask me about anything.
-- 😄 Pronouns: He/Him.
+I'm an AI Engineer who loves building projects and tools that make things easy and simple.
 
-🤝 &nbsp; Connect with Me
+- :rocket: Passionate about AI/ML and building impactful solutions
+- :art: Sometimes frontend also works because I love impressing people
+- :speech_balloon: Ask me about anything
+- :boy: Pronouns: He/Him
+  
+**Connect with Me**
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/nijeesh-nj-062468285)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nijeesh-nj-062468285)
 
-<hr>
+### Tech Stack
 
-### 🛠 &nbsp; Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=python,gcp,typescript,express,fastapi,firebase,nextjs,git,r,android)](https://skillicons.dev) 
-
-<hr>
-
-### 📝 &nbsp; Recent Blogs
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nijeesh10th/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nijeesh10th/0" alt="Recent Article 0"> 
+[![My Skills](https://skillicons.dev/icons?i=python,gcp,typescript,express,fastapi,firebase,nextjs,git,r,android)](https://skillicons.dev)
 
 
-<hr>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=codebyNJ&theme=nord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
 
-### ⚙️ &nbsp; Analytics
- 
-<a href="https://www.geeksforgeeks.org/user/nijeesh10th/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=nijeesh10th" alt="GFG stats"/></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codebyNJ&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyNJ&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="180"/>
+</div>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Nijeesh_1805?theme=dark&font=Big%20Shoulders%20Stencil%20Text)
+### Coding Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=codebyNJ&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyNJ&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="300"/>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.geeksforgeeks.org/user/nijeesh10th/">
+          <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=nijeesh10th" alt="GFG Stats"/>
+        </a>
+      </td>
+      <td align="center">
+        <img src="https://leetcard.jacoblin.cool/Nijeesh_1805?theme=dark&font=Big%20Shoulders%20Stencil%20Text" alt="LeetCode Stats"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-[![An image of @codebynj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codebynj)](https://holopin.io/@codebynj)
+### Holopin Badges
 
-------
-Credit: [Nijeesh NJ](https://github.com/codebyNJ)
+<div align="center">
+  <a href="https://holopin.io/@codebynj">
+    <img src="https://holopin.me/codebynj" alt="Holopin Badges"/>
+  </a>
+</div>
 
+---
+
+<div align="center">
+  <i>Credit: <a href="https://github.com/codebyNJ">Nijeesh NJ</a></i>
+</div>
