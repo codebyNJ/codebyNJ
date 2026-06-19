@@ -17,7 +17,6 @@ I'm an AI Engineer who loves building projects and tools that make things easy a
 - :rocket: Passionate about AI/ML and building impactful solutions
 - :art: Sometimes frontend also works because I love impressing people
 - :speech_balloon: Ask me about anything
-- :boy: Pronouns: He/Him
   
 **Connect with Me**
 
