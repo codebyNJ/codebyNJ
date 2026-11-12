@@ -1,0 +1,38 @@
+# Redraws cards/*.svg from the GitHub and LeetCode APIs once a day and commits them,
+# so profile visitors only load static files and never hit a rate-limited stats API.
+# Uses the built-in token by default; add a METRICS_TOKEN secret (classic, read:user) to count private work.
+name: Cards
+on:
+  schedule: [{ cron: '17 0 * * *' }]
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['scripts/**', '.github/workflows/cards.yml']
+permissions:
+  contents: write
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: python scripts/cards.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN || github.token }}
+      # Trophies: ryo-ma/github-profile-trophy's own code, run here instead of its (paid, often down) server.
+      - uses: actions/checkout@v4
+        with: { repository: ryo-ma/github-profile-trophy, ref: 43736b50a82fca73c8df1c81abb40aa03519975c, path: .trophy }
+      - uses: denoland/setup-deno@v1
+        with: { deno-version: v1.x }
+      - run: |
+          for t in light:flat dark:darkhub; do
+            deno run -A scripts/trophy.ts .trophy codebyNJ "cards/trophy-${t%%:*}.svg" "${t#*:}"
+          done
+        env:
+          GITHUB_TOKEN1: ${{ secrets.METRICS_TOKEN || github.token }}
+      - run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add cards
+          git diff --cached --quiet || { git commit -m 'Update profile cards'; git push; }
